@@ -3,7 +3,7 @@
 
 Utilizando la API de CatFact:
 
-![image](https://github.com/joeldiazcc/Tarea9/assets/64970845/cfe395e9-52ee-44ed-93b7-8579384fadf6)
+![image](https://github.com/joeldiazcc/Tarea9/assets/64970845/c9f2608d-7aee-4df5-8aa2-712cdeffaf25)
 
 Aqui se hace la llamada a la API:
 
@@ -13,7 +13,7 @@ Configurado por defecto que cambie cada 5 segundos:
 
 ![image](https://github.com/joeldiazcc/Tarea9/assets/64970845/fab3eaf7-a0f8-409a-b727-d06b29f1002d)
 
-#### Puedes probar el funcionamiento en este enlace:
+### Puedes probar el funcionamiento en este enlace:
 
 http://joeldiaz.byethost6.com/tarea9/catfact.php
 
