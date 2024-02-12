@@ -42,6 +42,10 @@ $fact = obtenerCatFact();
         #pie {
             color: black;
         }
+        img{
+            max-width: 500px;
+            max-height: 500px;
+        }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script>
@@ -62,6 +66,7 @@ $fact = obtenerCatFact();
 <body>
 <h1> Cat Fact </h1>
 <p id="fact"><cite><?php echo $fact->fact; ?></cite></p>
+<img src="migato.png" alt="Una fotito de mi gato (se llama Vixo)">
 <footer><p id="pie"> By: Joel Felipe Díaz Carissimi</p></footer>
 </body>
 </html>
